@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "name": "john",
+    "age": 21,
+    "mem":0,
+    "email" : "john@ghj.com",
+    "phone" : "9002300000"
+  },
+  {
+    "id": 2,
+    "name": "judy",
+    "age": 31,
+    "mem":1,
+    "email" : "judy@ghj.com",
+    "phone" : "9002300000"
+  },
+  {
+    "id": 3,
+    "name": "jack",
+    "age": 41,
+    "mem":0,
+    "email" : "jack@ghj.com",
+    "phone" : "9002300000"
+  },
+{
+    "id": 2,
+    "name": "judy",
+    "age": 31,
+    "mem":1,
+    "email" : "judy@ghj.com",
+    "phone" : "9002300000"
+  }
+]
